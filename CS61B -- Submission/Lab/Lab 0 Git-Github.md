@@ -61,3 +61,20 @@ Not a git repository (or any of the parent directories): .git
 git init
 ```
 
+```
+git remote -v
+
+//to check the push and fetch desitination
+```
+
+SSH key on Mac
+
+open ~/.ssh/config
+
+###### SSH
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection
+
+###### Personal Access Token
+
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token

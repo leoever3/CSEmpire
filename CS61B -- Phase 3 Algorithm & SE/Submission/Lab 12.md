@@ -1,5 +1,0 @@
-### Abstraction
-
-haha
-
-hahaha

@@ -6,6 +6,9 @@ Step into, Step over and Step out
 
 **Conditional breakpoints and Resume**
 
+* A **conditional breakpoint** is a special type of IntelliJ breakpoint that only stops under certain conditions.
+* The **git checkout** command is used to restore your files in git to an earlier state.
+
 ### IntLists
 
 Destructive vs. Non-Destructive

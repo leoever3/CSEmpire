@@ -56,7 +56,7 @@ Where is my notes
 | 37. Software Engineering IV                  | 1.19  |      |
 | 38. Compression                              | 1.21  |      |
 | 39. Compression, Complexity, and P=NP?       | 1.21  |      |
-| 40. Summary, Fun                             |       |      |
+| 40. Summary, Fun                             | 1.21  | Fun  |
 
 
 
@@ -77,32 +77,33 @@ Where is my notes
 
 ##### **Project**
 
-| Project     |                  |      |            |       |
-| ----------- | ---------------- | ---- | ---------- | ----- |
-| Project 0   | NBody Simulation | 100  | Array      | 10.26 |
-| Project 1a  | ArrayList        | 60   | Ugly       | 11.10 |
-| Project 1b  | Words game       | 95   | Some error | 11.17 |
-| Project 2.1 |                  |      |            |       |
-| Project 2.2 |                  |      |            |       |
-| Project 3   |                  |      |            |       |
+| Project     |                      |      |                                         |              |
+| ----------- | -------------------- | ---- | --------------------------------------- | ------------ |
+| Project 0   | NBody Simulation     | 100  | Array                                   | 10.26        |
+| Project 1a  | ArrayList            | 60   | Ugly                                    | 11.10        |
+| Project 1b  | Words game           | 95   | Some error                              | 11.17        |
+| Project 2.1 | 2D -- BYOG           | 70   | Just finish the basic part              | 1.24 -- 1.28 |
+| Project 2.2 | UI and Save and load | 80   | Some error but learn so much on the way | 1.29 -- 1.30 |
+| Project 3.1 |                      |      |                                         |              |
+| Project 3.2 |                      |      |                                         |              |
 
 ##### **Lab**
 
-| Lab       | Topic                 | Completion |                                                              |       |
-| --------- | --------------------- | ---------- | ------------------------------------------------------------ | ----- |
-| Lab 1     | Leap year             | 100        |                                                              | 10.25 |
-| Lab 2     | Debug, IntList        | 100        | Recursion                                                    | 11.4  |
-| Lab 3     | Junit                 | 100        |                                                              | 11.15 |
-| **Lab 4** | Peer Code review      | 0          | No peer ! ! !                                                |       |
-| **Lab 5** | Getting Start proj2.1 | 50         | Just some preview but no actual manipulate the tricky coding | 12.26 |
-| **Lab 6** | Getting Start proj2.2 |            |                                                              |       |
-| Lab 9     | BST & Hashing         | 90         | Didn't finish the operation remove and iteration             | 1.6   |
-| Lab 10    | Heap and PQ           | 80         | Can't deal with the exception???                             | 1.10  |
-| Lab 11    | Graph                 | 90         | Not finish optional                                          | 1.12  |
-| Lab 12    |                       |            |                                                              |       |
-| Lab 13    |                       |            |                                                              |       |
-| Lab 14    |                       |            |                                                              |       |
-| Lab 15    |                       |            |                                                              |       |
+| Lab       | Topic                 | Completion |                                                              |             |
+| --------- | --------------------- | ---------- | ------------------------------------------------------------ | ----------- |
+| Lab 1     | Leap year             | 100        |                                                              | 10.25       |
+| Lab 2     | Debug, IntList        | 100        | Recursion                                                    | 11.4        |
+| Lab 3     | Junit                 | 100        |                                                              | 11.15       |
+| **Lab 4** | Peer Code review      | 0          | No peer ! ! !                                                |             |
+| **Lab 5** | Getting Start proj2.1 | 50         | Read the video and learn a lot about the execllent job by a UCB student | 12.26 /1.24 |
+| **Lab 6** | Getting Start proj2.2 | 80         | Read the solution because these two lab is so hard           | 1.24        |
+| Lab 9     | BST & Hashing         | 90         | Didn't finish the operation remove and iteration             | 1.6         |
+| Lab 10    | Heap and PQ           | 80         | Can't deal with the exception???                             | 1.10        |
+| Lab 11    | Graph                 | 90         | Not finish optional                                          | 1.12        |
+| Lab 12    | Mergesort + Quicksort | 90         | Kind of good                                                 | 1.22        |
+| Lab 13    | Radix Sorting         | 99         | Not so good on Negative handling but got full scores         | 1.23        |
+| Lab 14    | Sound                 | 99         | Good job, tricky thinking                                    | 1.23        |
+| Lab 15    | Huglife               | 100        | Good job and easy                                            | 1.31        |
 
 ##### **Discussion**
 
@@ -141,8 +142,9 @@ Where is my notes
 | Homework 2 | Disjoint set -- percolation           | 100  | 1.5  |
 | Homework 3 | Hashing                               | 100  | 1.7  |
 | Homework 4 | Graph + AI                            | 100  | 1.12 |
-| Homework 5 |                                       |      |      |
+| Homework 5 | Seam Carving                          | 80   | 2.3  |
 | Homework 6 |                                       |      |      |
+| Homework 7 |                                       |      |      |
 
 ### 
 
@@ -156,15 +158,15 @@ A deque describes *what* you can do with a data structure.
 
 ### Shortcut in IntelliJ
 
-| Shortcut     | Function                       |
-| ------------ | ------------------------------ |
-| Command + B  | Go to the declaration or usage |
-| Command + [] | Go to the last position        |
-|              |                                |
-|              |                                |
-|              |                                |
-|              |                                |
-|              |                                |
-|              |                                |
-|              |                                |
+| Shortcut             | Function                       |
+| -------------------- | ------------------------------ |
+| Command + B          | Go to the declaration or usage |
+| Command + []         | Go to the last position        |
+| Control + `          | One line code                  |
+| command + option + c | Code buckets                   |
+|                      |                                |
+|                      |                                |
+|                      |                                |
+|                      |                                |
+|                      |                                |
 
