@@ -1,0 +1,4 @@
+- **Command-X**: Cut the selected item and copy it to the Clipboard.
+- **Command-F**: Find items in a document or open a Find window.
+- **Command-M**: Minimize the front window to the Dock. To minimize all windows of the front app, press Option-Command-M.
+- **Command-W**: Close the front window. To close all windows of the app, press Option-Command-W.
