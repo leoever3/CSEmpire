@@ -37,3 +37,29 @@ Arms-length recursion is not only redundant but often complicates our code and o
 
 
 torque 扭转力
+
+
+
+
+
+
+
+rstring: "r\"" regex* "\""
+
+?regex: character | word | group | pipe | class
+
+group: "(" regex* ")"
+pipe: regex* "|" regex*
+
+range: LETTER "-" LETTER | NUMBER "-" NUMBER
+class: "[" classes "]"
+?classes: character | range | classes classes
+
+
+character: LETTER | NUMBER
+word: WORD
+
+%ignore /\s+/
+%import common.LETTER
+%import common.NUMBER
+%import common.WORD
